@@ -1,0 +1,7 @@
+1)  i- 
+    ii- 
+    iii- Binary searching is a lot faster and simpler than serching through the deck one by one. I found that it takes a long time and is not that efficient to look through every card one by one.
+2) Efficiency can be measured by speed and simplicity of a task. Bnary  searching is more efficient because it is more efficient and is easier to find a specific card. It limits out a lot of cards. While searching one by one may be simple, it is not efficient because it is not fast.
+3)  i- The one by one serch algotithom would start at "apple" and look through every string in the array and see if it is "Blueberry" it will go through the whole list doing this. The binary search algorithom will start at the halfway string, either "lemon" or "lime," and see if blueberry would come before or after the letter "l". It will then repeat the process with only half of the array slowly eliminating more and more items in the array to see if the array contains "blueberry".
+    ii- search accesed all 11 of the elements, while binalry only accessed 3 or 4
+    iii- The longer the array is, the more elements search will access. Search will access an exponential amount of elements more compaired to binary search. 
